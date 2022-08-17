@@ -1,14 +1,14 @@
-<h1>潘晨 (Chen Pan)<h1>
+<h1>潘晨 (Chen Pan)</h1>
 
 
-<ul style="font-size:12px">
+<ul>
   <li>Birthday: 1999/07/08</li>  
   <li>Education: 國立高雄師範大學 / 應用數學系</li>
   <li>Location: Taipei City</li>
   <li>E-mail: panchenn7@gmail.com</li>
   <li>Mobile: 0928-297-002</li>
 </ul>
-  
+
 <hr></hr>
  
   
