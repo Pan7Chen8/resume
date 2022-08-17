@@ -44,51 +44,22 @@
 <hr/>
 <h3>WORK EXPERIENCE</h3>
 
-        <ul>
-          <li>觸角智能科技 工程師 ( 2021/08 - now )
-            <ul>
-              <li>呼吸治療平台
-                <ul>
-                  <li>參與訪談</li>
-                  <li>寄信功能</li>
-                  <li>標單製作</li>
-                  <li>php串接googlesheet</li>
-                  <li>使用chart.js業績分析圖表</li>
-                </ul>
-              </li>
-              <li>為建材代理商的業務製作平台
-                <ul>
-                  <li>介面製作</li>
-                  <li>寄信功能</li>
-                  <li>標單製作</li>
-                  <li>php串接googlesheet</li>
-                  <li>使用chart.js業績分析圖表</li>
-                </ul>
-              </li>
-              <li>依照工程公司需求客製化網頁架構
-                <ul>
-                  <li>phpMyadmin 資料庫建置、增刪修</li>
-                  <li>S3檔案的增刪修</li>
-                  <li>EC2檔案的增刪修</li>
-                </ul>
-              </li>
-              <li>活動宣傳網頁製作
-                <ul>
-                  <li>RWD響應式網頁</li>
-                </ul>
-              </li>
-            </ul>
-            
-            
-           
-            
-            
-        
-            
-            
-          </li>
-          <li>高中數學家教 (2019-2021)</li>
-        </ul>
+<ul>
+  <li>觸角智能科技 工程師 ( 2021/08 - now )
+    <ul>
+      <li>呼吸治療平台
+      <ul>
+        <li>參與訪談</li>
+        <li>寄信功能</li>
+        <li>標單製作</li>
+        <li>php串接googlesheet</li>
+        <li>使用chart.js業績分析圖表</li>
+       </ul>
+       </li>
+              
+
+
+</ul>
   
   
 
