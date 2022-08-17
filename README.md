@@ -9,35 +9,66 @@
 </ul>
   
 <hr></hr>
+ 
   
-<h3>工作經驗</h3>
-
+<h3>SKILLS</h3> 
 <ul>
-  <li>工作期間 2021/08 - 在職 觸角智能科技 <br/>
+  <li>Programing Language</li>
+  <ul>
+    <li>php</li>
+    <li>typescript</li>
+    <li>html</li>
+    <li>MYSQL</li>
+    <li>css</li>
+  </ul>
+</ul>  
+<ul>
+  <li>Font-end</li>
+  <ul>
+    <li>angular</li>
+    <li>ionic</li>
+  </ul>
+</ul>  
+<ul>
+  <li>Other</li>
+  <ul>
+    <li>EC2</li>
+    <li>AWS</li>
+    <li>S3</li>
+    <li>Git/Github</li>
+  </ul>
+</ul> 
+  
+  
+<hr></hr>  
+<h3>WORK EXPERIENCE</h3>
+<ul>
+  <li>觸角智能科技 (2021/08-now)  <br/>
       職位:工程師
     <ul>
-      <li>呼吸治療平台</li>
-      <ul>
-        <li></li>
-        <li>寄信功能</li>
-        <li>標單製作</li>
-        <li>php串接googlesheet</li>
-        <li>使用chart.js業績分析圖表</li>
-      </ul>
+      <li>呼吸治療平台
+        <ul>
+          <li></li>
+          <li>寄信功能</li>
+          <li>標單製作</li>
+          <li>php串接googlesheet</li>
+          <li>使用chart.js業績分析圖表</li>
+        </ul>
+      </li>
+      
+      
     </ul>
-    <ul>
-      <li>為建材代理商的業務製作平台</li>
-      <ul>
-        <li>介⾯製作</li>
-        <li>寄信功能</li>
-        <li>標單製作</li>
-        <li>php串接googlesheet</li>
-        <li>使用chart.js業績分析圖表</li>
-      </ul>
-    </ul>
+    
+    
+   
+    
     
 
     
     
   </li>
+  <li>高中數學家教 (2019-2021)</li>
 </ul>
+  
+  
+
