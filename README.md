@@ -9,7 +9,7 @@
   <li>Mobile: 0928-297-002</li>
 </ul>
 
-<hr></hr>
+<hr/>
  
   
 <h3>SKILLS</h3> 
@@ -41,7 +41,7 @@
 </ul> 
   
   
-<hr></hr>  
+<hr/>
 <h3>WORK EXPERIENCE</h3>
 
         <ul>
